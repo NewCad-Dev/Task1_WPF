@@ -1,0 +1,6 @@
+Task 1
+Using Visual Studio, create a project from the WPF Application template.
+Open the form designer and place two TextBox controls and one Button control on the form.
+Double-click the left mouse button on the Button control.
+In the Code Behind, in the button_Click event handler method, write a line of code that will display in
+textBox2 the value that the user enters in textBox1.
